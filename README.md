@@ -1,2 +1,40 @@
-# IPL---Data-Analysis-EDA_IPL_Mini_Project-18-08-25-Rev1
-This project performs **Exploratory Data Analysis (EDA)** on IPL datasets to extract key insights about matches, teams, and players.   It focuses on analyzing trends such as runs scored, toss decisions, match outcomes, player performance, and team dominanc
+# Mini Project: IPL - Data Analysis (EDA)
+## 📂 Datasets Used
+## 📌 Project Overview
+This project performs **Exploratory Data Analysis (EDA)** on IPL datasets to extract key insights about matches, teams, and players.  
+It focuses on analyzing trends such as runs scored, toss decisions, match outcomes, player performance, and team dominance.
+
+## 📂 Datasets Used
+1. **Deliveries Dataset:**  
+   https://drive.google.com/file/d/1O6E5DBDSFYSK4D9kandO-ELgFV23GVyi/view?usp=sharing
+
+2. **Matches Dataset:**  
+   https://drive.google.com/file/d/1tfdKTH39s8bhpRbY_Sz5FYO6IRPoFoeG/view?usp=sharing
+
+## 🧠 Questions Explored
+- Matches played and runs scored per season  
+- Most successful teams and players  
+- Toss-winning trends and their impact  
+- Boundary (4s/6s) contributions  
+- Highest scores, biggest wins, and strike rates  
+- Venues hosting the most matches  
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- NumPy
+
+## 📊 Key Insights
+- Toss winners don’t always win the match 🏏  
+- Certain venues favor specific teams 🏟️  
+- Consistent high run rates observed in later IPL seasons  
+- Top batsmen and bowlers identified based on performance metrics  
+
+
+🏁 Conclusion
+The project provides a comprehensive overview of the IPL from a data-driven perspective, uncovering meaningful insights and trends in cricket performance.
+
+🔖 Tags
+EDA Python Cricket Analytics IPL Matplotlib Seaborn Pandas Data Science
