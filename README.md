@@ -6,10 +6,10 @@ It focuses on analyzing trends such as runs scored, toss decisions, match outcom
 
 ## 📂 Datasets Used
 1. **Deliveries Dataset:**  
-   https://drive.google.com/file/d/1O6E5DBDSFYSK4D9kandO-ELgFV23GVyi/view?usp=sharing
+ https://drive.google.com/drive/folders/1p23cHvLSmG9apK8rlqvph7uHuQmfG-fA
 
 2. **Matches Dataset:**  
-   https://drive.google.com/file/d/1tfdKTH39s8bhpRbY_Sz5FYO6IRPoFoeG/view?usp=sharing
+ https://drive.google.com/drive/folders/1p23cHvLSmG9apK8rlqvph7uHuQmfG-fA
 
 ## 🧠 Questions Explored
 - Matches played and runs scored per season  
